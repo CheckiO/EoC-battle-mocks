@@ -75,6 +75,7 @@ CRYSTALITE_SILOS = {
     2: dict(hit_points=1200, **CRYSTALITE_SILO_BASIS),
     3: dict(hit_points=1400, **CRYSTALITE_SILO_BASIS),
     4: dict(hit_points=1700, **CRYSTALITE_SILO_BASIS),
+    5: dict(hit_points=2000, **CRYSTALITE_SILO_BASIS),
 }
 
 ADAMANTITE_STORAGE_BASIS = {

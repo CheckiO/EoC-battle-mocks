@@ -71,8 +71,8 @@ def sentry_tower(level: int, tile_position: [int, int], player_id: int, code_id:
 
 
 def machine_gun_tower(level: int, tile_position: [int, int], player_id: int, code_id: int) -> dict:
-    return create_building(SENTRY_TOWERS, level, tile_position, player_id, code_id)
+    return create_building(MACHINE_GUN_TOWERS, level, tile_position, player_id, code_id)
 
 
 def rocket_tower(level: int, tile_position: [int, int], player_id: int, code_id: int) -> dict:
-    return create_building(SENTRY_TOWERS, level, tile_position, player_id, code_id)
+    return create_building(ROCKET_TOWERS, level, tile_position, player_id, code_id)

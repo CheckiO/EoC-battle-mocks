@@ -48,7 +48,7 @@ ROCKET_TOWER_BASIS = {
     'alias': 'machine_gun',
     'type': 'machineGun',
     'firing_range': 10,
-    'rate_of_fire': 0.3,
+    'rate_of_fire': 0.4,
     'role': 'tower',
     'status': 'idle',
     'size': 2,

@@ -25,9 +25,9 @@ HEAVY_BOT_BASIS = {
 }
 
 HEAVY_BOTS = {
-    1: dict(damage_per_shot=5, hit_points=1000, **HEAVY_BOT_BASIS),
-    2: dict(damage_per_shot=7, hit_points=1200, **HEAVY_BOT_BASIS),
-    3: dict(damage_per_shot=10, hit_points=1400, **HEAVY_BOT_BASIS),
+    1: dict(damage_per_shot=10, hit_points=1000, **HEAVY_BOT_BASIS),
+    2: dict(damage_per_shot=13, hit_points=1200, **HEAVY_BOT_BASIS),
+    3: dict(damage_per_shot=16, hit_points=1400, **HEAVY_BOT_BASIS),
 }
 
 ROCKET_BOT_BASIS = {
